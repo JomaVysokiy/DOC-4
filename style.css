@@ -1,0 +1,261 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+body {
+    background-color: DeepSkyBlue;
+    font-size: 18px;
+    font-weight: 900;
+    font-family: 'Roboto', sans-serif;
+}
+ 
+h1 {
+     color: white ;
+    }
+
+#monkey1 {
+    box-shadow: 4px 4px 4px white;
+    width: 250px; 
+    height:310px;
+    border-radius:25px;
+    margin-left: 30px;
+}
+
+.info p {
+    color:snow;
+    margin:0; /* убирает отступы */
+    font-style: italic;  /*делает текст наклонным,но у меня не получилось*/
+    font-weight: bold; /*делает текст жирнее*/
+    /* text-decoration: underline; подчёркивает текст */
+    /* text-transform: uppercase; */
+    /* letter-spacing: ;  вводим значение которое будет расстоянием между буквами*/
+    /* word-spacing: ; расстояние между словами */
+}
+
+
+
+#p1 {
+    background-color: rgb(139, 3, 3);
+    border-radius: 15px;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 15px;
+}
+
+#Egor {
+    box-shadow: 4px 4px 4px white;
+    width: 250px; 
+    height:310px;
+    border-radius:25px;
+    margin-left: 30px;
+}
+
+#Ega {
+    background-color: BlueViolet;
+    border-radius: 15px;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 15px;
+}
+
+#p2 {
+    background-color: Plum;
+    border-radius: 15px;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 15px;
+}
+
+.all {
+    width: 75%;
+    margin:auto; /* выравниает по центру */
+}
+
+h4 {
+    color: white;
+}
+
+a   {
+    color: white;
+    text-decoration: none;
+}
+
+/* hover это наведение на ссылку */
+a:hover {
+    text-decoration: underline;
+   
+}
+
+/* a:active {
+    color: ;
+} */
+/* при наведении показывается этот цвет */
+
+
+
+
+.allWhite {
+    padding: 30px;
+    color:white
+}
+
+#Ksusha {
+    box-shadow: 4px 4px 4px white;
+    width: 250px; 
+    height:310px;
+    border-radius:25px;
+    margin-left: 30px;
+}
+
+
+.table {
+    width: 100%;
+    padding-bottom: 15px;   
+  
+    margin: 50px; 
+}
+
+.tablediv {
+    background-color: SlateBlue;
+    border-radius: 250px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    padding-right: 100px;
+    padding-left: 15px;
+}
+
+.tablediv td {
+    margin-top: 100px;
+}
+/* расстояние между словами но у меня здесь не сработало */
+/* там ещё есть тема на счёт выбора цвета для определённой колонки но мне впадлу было это делать */
+
+.css {
+    background-color: Crimson;
+    border-radius: 250px;
+    padding-bottom: 35px;  
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+.link-list {
+    list-style: circle; /*Меняет сами точки на нет ,с помощью url можно вставить свои картинки */
+    
+}
+
+.link-list li{
+    margin-top: 0px; /*взять на заметку*/
+    border-bottom: 2px solid  LavenderBlush;
+    width:350px;
+   
+}
+
+.End {
+    text-align: center;
+}
+
+.video {
+    width: 600px;
+}
+
+#semen {
+    background-color:aqua ;
+    box-shadow: 4px 4px 4px white;
+    width: 250px; 
+    height:310px;
+    border-radius:25px;
+    margin-left: 30px;
+}
+
+.semen1 {
+    background-color: rgb(230, 21, 160);
+    border-radius: 15px;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 15px;
+}
+
+.miks {
+    background-color:aqua ;
+    box-shadow: 4px 4px 4px white;
+    width: 250px; 
+    height:310px;
+    border-radius:25px;
+    margin-left: 30px;
+}
+
+.miks1{
+    background-color: SteelBlue;
+    border-radius: 15px;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 15px;
+}
+
+.nastya {
+    background-color:aqua ;
+    box-shadow: 4px 4px 4px white;
+    width: 250px; 
+    height:310px;
+    border-radius:25px;
+    margin-left: 30px;
+}
+
+.nastya1{
+    background-color:MediumSlateBlue;
+    border-radius: 15px;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 15px;
+}
+
+.kar {
+    background-color:aqua ;
+    box-shadow: 4px 4px 4px white;
+    width: 250px; 
+    height:310px;
+    border-radius:25px;
+    margin-left: 30px;
+}
+
+.kar1{
+    background-color:LightCoral;
+    border-radius: 15px;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 15px;
+}
+
+
+.mat {
+    background-color:aqua ;
+    box-shadow: 4px 4px 4px white;
+    width: 250px; 
+    height:270px;
+    border-radius:25px;
+    margin-left: 30px;
+}
+
+.mat1{
+    background-color:Pink;
+    border-radius: 15px;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 15px;
+}
+
+.spis {
+    list-style-image: url(teg.png);
+}
+
+.button {
+    color: white;
+    background-color: blue;
+    border-radius: 25px;
+}
+
+.button:hover {
+    opacity: 0.9; /*Прозрачность*/
+    cursor: pointer; /*при наведение другой курсор */
+}
+
+.button:focus {
+   outline: none; /*Убирает стандартное свечение браузера*/
+}
